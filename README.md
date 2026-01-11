@@ -43,8 +43,7 @@ I do **not** endorse or support illegal activity of any kind.
 
 ## License  
 
-This project is licensed under the **GPL‑3.0 License**.  
-You are free to use, modify, and distribute the code **as long as derivative work remains open-source under the same license**.
+This project is licensed under the **MIT License**.  
 
 ---
 
